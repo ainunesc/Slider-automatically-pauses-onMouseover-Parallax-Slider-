@@ -1,0 +1,2 @@
+# Slider-automatically-pauses-onMouseover-Parallax-Slider-
+Description: This content slider incorporates a parallax scrolling effect where each slide and its contents glide into view at different speeds, creating a captivating visual experience. Visual intrigue aside, however, Parallax Slider is an easy to customize, responsive slider that can adapt to different screen and device sizes, by supporting a percentage value as its width.
